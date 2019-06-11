@@ -19,6 +19,7 @@ In this repository you can find my notebooks and worksheets from my research wor
 * **Primes_part01**  
 Carolin Zöbelein, Published: 2019/05/04  
 https://github.com/Samdney/notebooks-worksheets/Primes_part01   
+Rendered Jupyter notebook on: [https://nbviewer.jupyter.org/github/Samdney/notebooks-worksheets/blob/master/Primes_part01/Primes_part01.ipynb](https://nbviewer.jupyter.org/github/Samdney/notebooks-worksheets/blob/master/Primes_part01/Primes_part01.ipynb)  
 Type: Jupyter notebook, Kernel: SageMath  
 id: notework_0001  
 
